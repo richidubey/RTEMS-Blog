@@ -1,0 +1,24 @@
+h1
+{
+	text-align:center;
+	font-family: 'Aladin', cursive;
+	font-size: 3vw;
+	
+}
+
+h2
+{
+	text-align : center;
+	font-family: 'Walter Turncoat', cursive;
+}
+
+
+body
+{
+	margin : 2vw;
+}
+
+#date
+{
+ font-weight: bold;
+}
